@@ -33,11 +33,11 @@ The credentials to access various services are as follows (taken from the `docke
 
 - **MariaDB (Database)**
   - Username: `root`
-  - Password: `example`
+  - Password: `qwerty`
 
 - **PHPMyAdmin**
   - Username: `phpmyadmin`
-  - Password: `example`
+  - Password: `qwerty`
 
 ### Additional Notes
 - Ensure that Docker is installed on your system before running the `docker-compose up` command.
