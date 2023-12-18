@@ -1,4 +1,4 @@
-###Docker Development Server
+### Docker Development Server
 
 This GitHub repository provides Dockerfiles to set up a development environment with multiple servers: a VSCode web server, an Nginx server with PHP support, a PHPMyAdmin server, and a MariaDB server.
 
