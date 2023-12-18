@@ -7,7 +7,7 @@ To run this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/BramSuurdje/docker-vscode-server.git
+   git clone https://github.com/BramSuurdje/docker-vscode-server.git
    ```
 
 2. **Run Docker Compose:**
@@ -28,7 +28,19 @@ After running the Docker Compose command, you can access the servers via the fol
 - **PHPMyAdmin:** Port `82`
   - Access PHPMyAdmin at `http://localhost:82`
 
+#### Username and Passwords
+The credentials to access various services are as follows (taken from the `docker-compose.yml` file):
+
+- **MariaDB (Database)**
+  - Username: `root`
+  - Password: `example`
+
+- **PHPMyAdmin**
+  - Username: `phpmyadmin`
+  - Password: `example`
+
 ### Additional Notes
 - Ensure that Docker is installed on your system before running the `docker-compose up` command.
+- Customize configurations or environment variables as needed by modifying the respective Dockerfiles or `.env` files.
 
 Happy coding! If you have any issues or questions, feel free to open an issue in this repository.
