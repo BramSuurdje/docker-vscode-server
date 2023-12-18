@@ -18,8 +18,8 @@ services:
     volumes:
       - ./config:/config/
     ports:
-      - 82:8443
-      - 81:80
+      - 81:8443
+      - 80:80
     restart: unless-stopped
 
   mysql:
@@ -42,4 +42,4 @@ services:
       - 'PMA_USER=root'
       - 'PMA_PASSWORD=qwerty'
     ports:
-      - '83:80'
+      - '82:80'
