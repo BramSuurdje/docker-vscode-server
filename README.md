@@ -7,7 +7,7 @@ To run this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/BramSuurdje/docker-vscode-server.git
    ```
 
 2. **Run Docker Compose:**
