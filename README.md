@@ -30,6 +30,5 @@ After running the Docker Compose command, you can access the servers via the fol
 
 ### Additional Notes
 - Ensure that Docker is installed on your system before running the `docker-compose up` command.
-- Customize configurations or environment variables as needed by modifying the respective Dockerfiles or `.env` files.
 
 Happy coding! If you have any issues or questions, feel free to open an issue in this repository.
