@@ -3,6 +3,7 @@ FROM lscr.io/linuxserver/code-server:latest
 RUN apt update && \
     apt install -y php php-mysql php-curl php-fpm nginx && \
     apt install -y libapache2-mod-php php-mysql
+    apt purge -y apache2
 
 RUN mkdir -p /config/workspace
 
