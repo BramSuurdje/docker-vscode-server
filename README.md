@@ -36,7 +36,7 @@ The credentials to access various services are as follows (taken from the `docke
   - Password: `qwerty`
 
 - **PHPMyAdmin**
-  - Username: `phpmyadmin`
+  - Username: `root`
   - Password: `qwerty`
 
 ### Additional Notes
