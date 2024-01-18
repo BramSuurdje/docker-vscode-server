@@ -1,0 +1,134 @@
+[2023-12-18T19:14:29.463Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2023-12-18T19:14:29.463Z] info  Using user-data-dir /config/data
+[2023-12-18T19:14:29.471Z] info  Using config file /config/.config/code-server/config.yaml
+[2023-12-18T19:14:29.471Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2023-12-18T19:14:29.471Z] info    - Authentication is disabled
+[2023-12-18T19:14:29.471Z] info    - Not serving HTTPS
+[2023-12-18T19:14:29.471Z] info  Session server listening on /config/data/code-server-ipc.sock
+[2023-12-18T19:15:45.850Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2023-12-18T19:15:45.850Z] info  Using user-data-dir /config/data
+[2023-12-18T19:15:45.857Z] info  Using config file /config/.config/code-server/config.yaml
+[2023-12-18T19:15:45.857Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2023-12-18T19:15:45.857Z] info    - Authentication is disabled
+[2023-12-18T19:15:45.857Z] info    - Not serving HTTPS
+[2023-12-18T19:15:45.857Z] info  Session server listening on /config/data/code-server-ipc.sock
+[20:16:03] 
+
+
+
+
+[20:16:03] Extension host agent started.
+[20:16:03] Started initializing default profile extensions in extensions installation folder. file:///config/extensions
+[20:16:03] Completed initializing default profile extensions in extensions installation folder. file:///config/extensions
+[20:16:03] [172.18.0.1][94ddb10f][ManagementConnection] New connection established.
+[20:16:04] [172.18.0.1][7e5a7b86][ExtensionHostConnection] New connection established.
+[20:16:04] [172.18.0.1][7e5a7b86][ExtensionHostConnection] <263> Launched Extension Host Process.
+[21:05:08] Getting Manifest... bmewburn.vscode-intelephense-client
+[21:05:09] Installing extension: bmewburn.vscode-intelephense-client
+[21:05:10] Extension signature verification is not done: bmewburn.vscode-intelephense-client
+[21:05:10] Extracted extension to file:///config/extensions/bmewburn.vscode-intelephense-client-1.10.2-universal: bmewburn.vscode-intelephense-client
+[21:05:10] Renamed to /config/extensions/bmewburn.vscode-intelephense-client-1.10.2-universal
+[21:05:10] Extracting extension completed. bmewburn.vscode-intelephense-client
+[21:05:10] Extension installed successfully: bmewburn.vscode-intelephense-client
+[21:12:29] [172.18.0.1][94ddb10f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:12:29] [172.18.0.1][7e5a7b86][ExtensionHostConnection] <263> Extension Host Process exited with code: 0, signal: null.
+[21:26:51] [172.18.0.1][8d946526][ManagementConnection] New connection established.
+[21:26:52] [172.18.0.1][87e3ebdf][ExtensionHostConnection] New connection established.
+[21:26:52] [172.18.0.1][87e3ebdf][ExtensionHostConnection] <10496> Launched Extension Host Process.
+[2023-12-18T20:51:25.189Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2023-12-18T20:51:25.190Z] info  Using user-data-dir /config/data
+[2023-12-18T20:51:25.197Z] info  Using config file /config/.config/code-server/config.yaml
+[2023-12-18T20:51:25.197Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2023-12-18T20:51:25.197Z] info    - Authentication is disabled
+[2023-12-18T20:51:25.197Z] info    - Not serving HTTPS
+[2023-12-18T20:51:25.197Z] info  Session server listening on /config/data/code-server-ipc.sock
+[21:51:29] 
+
+
+
+
+[21:51:29] Extension host agent started.
+[21:51:29] [172.19.0.1][6635472a][ManagementConnection] New connection established.
+[21:51:29] [172.19.0.1][f7cc5365][ExtensionHostConnection] New connection established.
+[21:51:29] [172.19.0.1][f7cc5365][ExtensionHostConnection] <263> Launched Extension Host Process.
+[2023-12-18T21:31:16.306Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2023-12-18T21:31:16.307Z] info  Using user-data-dir /config/data
+[2023-12-18T21:31:16.314Z] info  Using config file /config/.config/code-server/config.yaml
+[2023-12-18T21:31:16.314Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2023-12-18T21:31:16.314Z] info    - Authentication is disabled
+[2023-12-18T21:31:16.314Z] info    - Not serving HTTPS
+[2023-12-18T21:31:16.314Z] info  Session server listening on /config/data/code-server-ipc.sock
+[22:31:22] 
+
+
+
+
+[22:31:22] Extension host agent started.
+[22:31:45] [172.19.0.1][a0ea68a3][ManagementConnection] New connection established.
+[22:31:46] [172.19.0.1][ff8814fc][ExtensionHostConnection] New connection established.
+[22:31:46] [172.19.0.1][ff8814fc][ExtensionHostConnection] <263> Launched Extension Host Process.
+[2023-12-18T21:32:42.427Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2023-12-18T21:32:42.428Z] info  Using user-data-dir /config/data
+[2023-12-18T21:32:42.436Z] info  Using config file /config/.config/code-server/config.yaml
+[2023-12-18T21:32:42.437Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2023-12-18T21:32:42.437Z] info    - Authentication is disabled
+[2023-12-18T21:32:42.437Z] info    - Not serving HTTPS
+[2023-12-18T21:32:42.437Z] info  Session server listening on /config/data/code-server-ipc.sock
+[22:32:45] 
+
+
+
+
+[22:32:45] Extension host agent started.
+[22:32:59] [172.20.0.1][5654b7f0][ManagementConnection] New connection established.
+[22:33:00] [172.20.0.1][56d1ffef][ExtensionHostConnection] New connection established.
+[22:33:00] [172.20.0.1][56d1ffef][ExtensionHostConnection] <263> Launched Extension Host Process.
+[22:33:39] [172.20.0.1][020dc9cb][ManagementConnection] New connection established.
+[22:33:40] [172.20.0.1][1b663804][ExtensionHostConnection] New connection established.
+[22:33:40] [172.20.0.1][1b663804][ExtensionHostConnection] <439> Launched Extension Host Process.
+[01:03:57] [172.20.0.1][020dc9cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:03:57] [172.20.0.1][1b663804][ExtensionHostConnection] <439> Extension Host Process exited with code: 0, signal: null.
+[01:06:55] [172.20.0.1][2527f639][ManagementConnection] New connection established.
+[01:06:55] [172.20.0.1][e28bb6c7][ExtensionHostConnection] New connection established.
+[01:06:55] [172.20.0.1][e28bb6c7][ExtensionHostConnection] <54798> Launched Extension Host Process.
+[2024-01-03T18:48:25.399Z] info  code-server 4.19.1 0c98611e6b43803a9d5dba222d7023b569abfb49
+[2024-01-03T18:48:25.400Z] info  Using user-data-dir /config/data
+[2024-01-03T18:48:25.410Z] info  Using config file /config/.config/code-server/config.yaml
+[2024-01-03T18:48:25.410Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2024-01-03T18:48:25.410Z] info    - Authentication is disabled
+[2024-01-03T18:48:25.410Z] info    - Not serving HTTPS
+[2024-01-03T18:48:25.410Z] info  Session server listening on /config/data/code-server-ipc.sock
+[2024-01-17T16:32:09.245Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-17T16:32:09.245Z] info  Using user-data-dir /config/data
+[2024-01-17T16:32:09.252Z] info  Using config file /config/.config/code-server/config.yaml
+[2024-01-17T16:32:09.253Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2024-01-17T16:32:09.253Z] info    - Authentication is disabled
+[2024-01-17T16:32:09.253Z] info    - Not serving HTTPS
+[2024-01-17T16:32:09.253Z] info  Session server listening on /config/data/code-server-ipc.sock
+[17:32:27] 
+
+
+
+
+[17:32:27] Extension host agent started.
+[17:32:28] [172.18.0.1][83b757a4][ManagementConnection] New connection established.
+[17:32:28] [172.18.0.1][be952744][ExtensionHostConnection] New connection established.
+[17:32:28] [172.18.0.1][be952744][ExtensionHostConnection] <263> Launched Extension Host Process.
+[18:01:52] [172.18.0.1][83b757a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:01:52] [172.18.0.1][be952744][ExtensionHostConnection] <263> Extension Host Process exited with code: 0, signal: null.
+[2024-01-18T15:32:20.121Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-18T15:32:20.121Z] info  Using user-data-dir /config/data
+[2024-01-18T15:32:20.129Z] info  Using config file /config/.config/code-server/config.yaml
+[2024-01-18T15:32:20.129Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2024-01-18T15:32:20.129Z] info    - Authentication is disabled
+[2024-01-18T15:32:20.129Z] info    - Not serving HTTPS
+[2024-01-18T15:32:20.129Z] info  Session server listening on /config/data/code-server-ipc.sock
+[16:32:33] 
+
+
+
+
+[16:32:33] Extension host agent started.
+[16:32:34] [172.18.0.1][d5a8f21b][ManagementConnection] New connection established.
+[16:32:34] [172.18.0.1][e197d0fd][ExtensionHostConnection] New connection established.
+[16:32:34] [172.18.0.1][e197d0fd][ExtensionHostConnection] <263> Launched Extension Host Process.
