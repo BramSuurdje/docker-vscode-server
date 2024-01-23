@@ -29,7 +29,7 @@ After running the Docker Compose command, you can access the servers via the fol
   - Access PHPMyAdmin at `http://localhost:82`
 
 #### Username and Passwords
-The credentials to access various services are as follows (taken from the `docker-compose.yml` file):
+The credentials to access various services are as follows (taken from the `compose.yml` file):
 
 - **MariaDB (Database)**
   - Username: `root`
