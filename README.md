@@ -13,7 +13,7 @@ To run this project, follow these steps:
 2. **Run Docker Compose:**
    Navigate to the project directory and execute:
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
 #### Accessing Servers and Ports
